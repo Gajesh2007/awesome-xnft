@@ -19,7 +19,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   * [Hxro - xNFT Tutorial](https://youtu.be/g5TkzQRGwS4)
 * Podcasts
   * [Superteam - xNFT](https://www.youtube.com/watch?v=GC0U8noMATc)
-
+* Marketplace
+  * [xNFT Marketplace](https://xnft.gg)
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
