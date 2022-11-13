@@ -17,6 +17,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   * [Official Docs](https://docs.xnft.gg)
 * Learning
   * [Hxro - xNFT Tutorial](https://youtu.be/g5TkzQRGwS4)
+  * [Breakpoint - How To Build an xNFT](https://www.youtube.com/watch?v=C3Hie3AhYRU)
 * Podcasts
   * [Superteam - xNFT](https://www.youtube.com/watch?v=GC0U8noMATc)
 * Marketplace
