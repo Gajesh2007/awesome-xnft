@@ -10,6 +10,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [Double Diffusion](https://github.com/Gajesh2007/double-diffusion)
 * [xNFT Program Library](https://github.com/coral-xyz/xnft-program-library)
 * [xNFT Examples](https://github.com/coral-xyz/backpack/tree/master/examples)
+* [Hxro xNFT (not related to Armanis WorkShop)](https://github.com/cinojosa0705/hxro-xnft)
 
 ## Resources
 
